@@ -1,0 +1,42 @@
+{
+    "ar": {
+        "Me": "أنا",
+        "You": "أنت",
+        "Originchat": "الدردشة",
+        "id": "ايدي",
+        "first_name": "الاسم الأول",
+        "last_name": "الاسم الثاني",
+        "username": "المعرف",
+        "is_bot": "بوت",
+        "Forwardedfrom": "توجيه من",
+        "hidden": "مخفي",
+        "hiddens": "هذا المستخدم أخفى معلومات حسابه في إعدادات خصوصية (تيليجرام) ، لذا لا أستطيع إخبارك أي شيء عنه.",
+        "title": "الاسم",
+        "Name": "الاسم",
+        "Id": "الايدي",
+        "Username": "المعرف",
+        "Message": "الرسالة",
+        "forward_date": "تاريخ التوجيه",
+        "language_code": "اللغة"
+    },
+    "en": {
+        "Me": "Me",
+        "You": "You",
+        "Originchat": "Origin chat",
+        "id": "id",
+        "first_name": "first_name",
+        "last_name": "last_name",
+        "username": "username",
+        "is_bot": "is_bot",
+        "Forwardedfrom": "Forwarded from",
+        "hidden": "hidden",
+        "hiddens": "This user hid his account information in Telegram's privacy settings, so I can't tell you anything about him.",
+        "title": "title",
+        "Name": "Name",
+        "Id": "Id",
+        "Username": "Username",
+        "Message": "Message",
+        "forward_date": "forward_date",
+        "language_code": "language_code"
+    }
+}

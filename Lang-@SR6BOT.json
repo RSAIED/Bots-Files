@@ -17,7 +17,8 @@
         "Username": "المعرف",
         "Message": "الرسالة",
         "forward_date": "تاريخ التوجيه",
-        "language_code": "اللغة"
+        "language_code": "اللغة",
+        "type": "النوع"
     },
     "en": {
         "Me": "Me",
@@ -37,6 +38,7 @@
         "Username": "Username",
         "Message": "Message",
         "forward_date": "forward_date",
-        "language_code": "language_code"
+        "language_code": "language_code",
+        "type": "type"
     }
 }

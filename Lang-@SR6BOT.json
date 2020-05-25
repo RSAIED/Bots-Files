@@ -16,6 +16,7 @@
         "Id": "الايدي",
         "Username": "المعرف",
         "Message": "الرسالة",
+        "message_id": "ايدي الرسالة",
         "forward_date": "تاريخ التوجيه",
         "language_code": "اللغة",
         "type": "النوع"
@@ -37,6 +38,7 @@
         "Id": "Id",
         "Username": "Username",
         "Message": "Message",
+        "message_id": "message_id",
         "forward_date": "forward_date",
         "language_code": "language_code",
         "type": "type"
